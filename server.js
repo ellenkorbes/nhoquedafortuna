@@ -17,19 +17,20 @@ app.post('/form', function (request, response) {
   mongo.connect(mongouri, function (err, db) {
     if (err) throw err
     console.log(request.body)
-    var now = moment().tz("America/Sao_Paulo").format()
+    var now = moment().tz("America/Sao_Paulo").format("YYYY-MM-DD HH:mm:ss")
     var newEntry = [{
-      "name": request.body.name,
       "email": request.body.email,
+      "nome": request.body.nome + " " + request.body.sobrenome,
       "ip": request.headers['x-forwarded-for'].split(',')[0],
-      "time": now
+      "tipo": "B2C",
+      "data_hora": now
     }]
     db.collection('leads').insert(newEntry, function (err, result) {
       if (err) throw err
       console.log(result)
       db.close()
     })
-    response.redirect("http://www.nhoquedafortuna.com/thanks.html")
+    response.redirect("http://www.nhoquedafortuna.com/blog/thanks/thanks/")
   }
   )
 })
