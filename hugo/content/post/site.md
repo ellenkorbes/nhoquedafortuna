@@ -1,8 +1,9 @@
 ---
-title: "My Second Post"
+title: "Já mencionei o quanto eu detesto fazer site?"
 date: 2017-09-02T09:26:00-03:00
 draft: false
 featured_image: /blog/img/restaurant2.jpg
+excerpt: "É muito chato pra caramba tá ligado, dá mó vontade de se jogar pela janela e talz"
 ---
 
 Stares at human while pushing stuff off a table. Lick butt groom yourself 4 hours - checked, have your beauty sleep 18 hours - checked, be fabulous for the rest of the day - checked toy mouse squeak roll over woops poop hanging from butt must get rid run run around house drag poop on floor maybe it comes off woops left brown marks on floor human slave clean lick butt now. 
