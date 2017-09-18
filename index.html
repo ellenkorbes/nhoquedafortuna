@@ -1,34 +1,110 @@
 <!DOCTYPE html>
 <html lang="en">
+
   <head>
-    <!-- Required meta tags -->
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    <title>Clean Blog - Start Bootstrap Theme</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="Blog/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="Blog/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <!-- Custom styles for this template -->
+    <link href="Blog/css/clean-blog.min.css" rel="stylesheet">
+    <link href="Blog/css/stylelandingpage.css" rel="stylesheet">
+ 
   </head>
+
   <body>
-    <h1>Bem vindo ao nhoque da fortuna!</h1>
-
-    <h2>Prenxe aí, ô!</h2>
-
-    <div class="col-4">
-        <form type="submit" action="https://nhoque.glitch.me/form" method="post" enctype="application/x-www-form-urlencoded">
-            <div class="form-group p-3">
-            <label>Nome: </label> 
-            <input type="text" id="name" class="form-control" name="name">
-             <label>Email: </label> 
-            <input type="text" id="email" class="form-control" name="email">
-            <br>
-            <input type="submit" value="côza linda!" class="btn btn-primary btn-lg">
+    <!-- Page Header -->
+    <header class="headerlanding" >
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-md-10 mx-auto">
+            <div id="logo">
+               <img class="img-fluid" src="Blog/img/landing-02.png" alt="">
             </div>
-            </form>
+          </div>
+        </div>
       </div>
+    </header>
+  <main id="main">
+   <div class="container">
+        <div class="row">
+          <div class="col-lg-7 col-md-10 mx-auto">
+              <h2 class="section-heading">Economia de tempo, menos trabalho, menos dinheiro e mesmo assim garantindo a qualidade do seu produto?</h2>
+           
+ <p>O desafio pra quem tem um negócio no setor alimentício não é pequeno. E é por isso que queremos te convidar pra ficar atento as próximas novidades que prometem revolucionar seu empreendimento, e por que não sua vida?
 
-    <!-- jQuery first, then Tether, then Bootstrap JS. -->
-    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+Deixe seu contato e receba em primeira mão uma nova tecnologia que vai te ajudar a ser mais produtivo!</p>
+</div>
+       	  <div  class="col-lg-5 col-md-10 mx-auto" id="formulario">
+          <header>
+       	  <h3>Fique por dentro das últimas tendências do mundo food!</h3>
+          <p>Basta preencher o formulário abaixo</p>
+          </header>
+          <section>
+          <div id="formulario-content">
+          <form name="sentMessage" id="contactForm" validate action="https://nhoque.glitch.me/form" method="post" enctype="application/x-www-form-urlencoded">          
+            <div class="control-group">
+              <div class="form-group" id="divnome">
+                <label>Nome</label>
+                <input type="text" class="form-control" placeholder="Nome" id="name" name="name" required data-validation-required-message="Por favor digite seu nome.">
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <div class="control-group">
+              <div class="form-group">
+                <label>Endereço de Email</label>
+                <input type="email" class="form-control" placeholder="Endereço de Email" name="email" id="email" required data-validation-required-message="Por favor digite seu endereço de email.">
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>  
+                  
+            <br>
+            <div id="success"></div>
+            <div class="form-group centralizado">
+              <button type="submit" class="btn btn-secondary button-enviar" id="sendMessageButton">Enviar</button>
+            </div>
+          </form>
+          </div>
+           </section>
+         </div>
+       
+        
+        </div>
+      </div>
+	</main>
+    <hr>
+
+    <!-- Footer -->
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-md-10 mx-auto">            
+            <p class="copyright text-muted">Copyright &copy; Nhoque da Fortuna 2017</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="Blog/vendor/jquery/jquery.min.js"></script>
+    <script src="Blog/vendor/popper/popper.min.js"></script>
+    <script src="Blog/vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="Blog/js/clean-blog.min.js"></script>
+
   </body>
+
 </html>
