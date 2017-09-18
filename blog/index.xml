@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nhoque da Fortuna — Fique por dentro das últimas tendências do mundo food!</title>
+    <link>/blog/</link>
+    <description>Recent content on Nhoque da Fortuna — Fique por dentro das últimas tendências do mundo food!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Sep 2017 09:26:00 -0300</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>/blog/post/my-first-post/</link>
+      <pubDate>Sat, 02 Sep 2017 09:26:00 -0300</pubDate>
+      
+      <guid>/blog/post/my-first-post/</guid>
+      <description>Meow climb a tree, wait for a fireman jump to fireman then scratch his face. Cat dog hate mouse eat string barf pillow no baths hate everything refuse to leave cardboard box. Poop on grasses wack the mini furry mouse yet scratch the postman wake up lick paw wake up owner meow meow or meowing chowing and wowing, for spot something, big eyes, big eyes, crouch, shake butt, prepare to pounce yet who&amp;rsquo;s the baby, but knock dish off table head butt cant eat out of my own dish.</description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>/blog/post/my-second-post/</link>
+      <pubDate>Sat, 02 Sep 2017 09:26:00 -0300</pubDate>
+      
+      <guid>/blog/post/my-second-post/</guid>
+      <description>Stares at human while pushing stuff off a table. Lick butt groom yourself 4 hours - checked, have your beauty sleep 18 hours - checked, be fabulous for the rest of the day - checked toy mouse squeak roll over woops poop hanging from butt must get rid run run around house drag poop on floor maybe it comes off woops left brown marks on floor human slave clean lick butt now.</description>
+    </item>
+    
+  </channel>
+</rss>
