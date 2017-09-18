@@ -1,8 +1,9 @@
 ---
-title: "My First Post"
+title: "Nhoque da Fortuna"
 date: 2017-09-02T09:26:00-03:00
 draft: false
-featured_image: /img/restaurant.jpg
+featured_image: /blog/img/restaurant.jpg
+excerpt: "Fique por dentro das últimas tendências do mundo food!"
 ---
 
 Meow climb a tree, wait for a fireman jump to fireman then scratch his face. Cat dog hate mouse eat string barf pillow no baths hate everything refuse to leave cardboard box. Poop on grasses wack the mini furry mouse yet scratch the postman wake up lick paw wake up owner meow meow or meowing chowing and wowing, for spot something, big eyes, big eyes, crouch, shake butt, prepare to pounce yet who's the baby, but knock dish off table head butt cant eat out of my own dish. 
