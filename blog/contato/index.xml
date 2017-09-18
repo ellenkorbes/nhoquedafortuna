@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contatos on Nhoque da Fortuna — Fique por dentro das últimas tendências do mundo food!</title>
+    <link>/blog/contato/</link>
+    <description>Recent content in Contatos on Nhoque da Fortuna — Fique por dentro das últimas tendências do mundo food!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    
+	<atom:link href="/blog/contato/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Entre em contato!</title>
+      <link>/blog/contato/contato/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/contato/contato/</guid>
+      <description>Inscreva suas informações abaixo e assim que possível entraremos em contato com você.</description>
+    </item>
+    
+  </channel>
+</rss>

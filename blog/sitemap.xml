@@ -23,6 +23,15 @@
   </url>
   
   <url>
+    <loc>/blog/contato/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/contato/contato/</loc>
+  </url>
+  
+  <url>
     <loc>/blog/</loc>
     <lastmod>2017-09-02T09:26:00-03:00</lastmod>
     <priority>0</priority>
@@ -43,6 +52,15 @@
   <url>
     <loc>/blog/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/thanks/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/thanks/thanks/</loc>
   </url>
   
 </urlset>
