@@ -5,4 +5,4 @@ draft: false
 featured_image: /blog/img/fundoazul2.jpeg
 ---
 
-Inscreva suas informações abaixo e assim que possível entraremos em contato com você.
+Enquanto isso, fique de olho no nosso site para não ficar de fora das últimas novidades do mundo food!

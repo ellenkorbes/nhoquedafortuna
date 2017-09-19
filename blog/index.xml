@@ -6,10 +6,20 @@
     <description>Recent content on Nhoque da Fortuna — Fique por dentro das últimas tendências do mundo food!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 02 Sep 2017 09:26:00 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 Sep 2017 18:26:00 -0300</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>09 Cuidados Para Pensar Antes de Abrir um Restaurante</title>
+      <link>/blog/post/09-cuidados/</link>
+      <pubDate>Tue, 19 Sep 2017 18:26:00 -0300</pubDate>
+      
+      <guid>/blog/post/09-cuidados/</guid>
+      <description>Quando tomamos a importante decisão de começar a empreender, temos um grande volume de informação a coletar e inúmeras tarefas para cumprir. Nem sempre conseguimos pensar em tudo, ou manter o foco no que é realmente necessário para dar o ponta pé inicial. Então, para auxiliá-lo, separamos nove dicas para ajudar você a refletir antes de abrir seu negócio:
+Analisar o mercado Esse é o ponta pé inicial, procurar entender como está o mercado no segmento escolhido, e se realmente vale a pena colocar mais uma opção para dividir o nicho.</description>
+    </item>
     
     <item>
       <title>Já mencionei o quanto eu detesto fazer site?</title>
@@ -31,30 +41,12 @@ Acompanhe nosso blog, fique atento às próximas novidades que prometem revoluci
     </item>
     
     <item>
-      <title>Não compre Bis por 1 real</title>
-      <link>/blog/post/bis/</link>
-      <pubDate>Sat, 02 Sep 2017 09:26:00 -0300</pubDate>
-      
-      <guid>/blog/post/bis/</guid>
-      <description>Meow climb a tree, wait for a fireman jump to fireman then scratch his face. Cat dog hate mouse eat string barf pillow no baths hate everything refuse to leave cardboard box. Poop on grasses wack the mini furry mouse yet scratch the postman wake up lick paw wake up owner meow meow or meowing chowing and wowing, for spot something, big eyes, big eyes, crouch, shake butt, prepare to pounce yet who&amp;rsquo;s the baby, but knock dish off table head butt cant eat out of my own dish.</description>
-    </item>
-    
-    <item>
-      <title>Entre em contato!</title>
-      <link>/blog/contato/contato/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/contato/contato/</guid>
-      <description>Inscreva suas informações abaixo e assim que possível entraremos em contato com você.</description>
-    </item>
-    
-    <item>
       <title>Thanks!</title>
       <link>/blog/thanks/thanks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/blog/thanks/thanks/</guid>
-      <description>Inscreva suas informações abaixo e assim que possível entraremos em contato com você.</description>
+      <description>Enquanto isso, fique de olho no nosso site para não ficar de fora das últimas novidades do mundo food!</description>
     </item>
     
   </channel>
