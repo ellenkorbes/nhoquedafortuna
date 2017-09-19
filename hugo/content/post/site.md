@@ -2,7 +2,7 @@
 title: "Já mencionei o quanto eu detesto fazer site?"
 date: 2017-09-02T09:26:00-03:00
 draft: false
-featured_image: /blog/img/restaurant2.jpg
+featured_image: /blog/img/fundoazul4.jpeg
 excerpt: "É muito chato pra caramba tá ligado, dá mó vontade de se jogar pela janela e talz"
 ---
 

@@ -92,11 +92,15 @@ body {
     font-size: 12px;
     font-weight: 800;
     letter-spacing: 1px;
-    text-transform: uppercase; }
+    text-transform: uppercase;  
+  }
   @media only screen and (min-width: 992px) {
     #mainNav {
       border-bottom: 1px solid transparent;
-      background: transparent; }
+      background:
+      transparent; 
+       /* rgba(255, 255, 255, 0.9);  */
+    }
       #mainNav .navbar-brand {
         padding: 15px 20px;
         color: white; }
@@ -104,9 +108,12 @@ body {
           color: rgba(255, 255, 255, 0.8); }
       #mainNav .navbar-nav > li.nav-item > a {
         padding: 15px 20px;
-        color: white; }
+        color: white; } 
+        /* here! */
         #mainNav .navbar-nav > li.nav-item > a:focus, #mainNav .navbar-nav > li.nav-item > a:hover {
-          color: rgba(255, 255, 255, 0.8); } }
+          color: rgba(255, 255, 255, 0.8);  } }
+          /* white; */
+        
   @media only screen and (min-width: 1170px) {
     #mainNav {
       -webkit-transition: background-color 0.2s;
@@ -126,16 +133,26 @@ body {
         -webkit-transition: -webkit-transform 0.2s;
         -moz-transition: -moz-transform 0.2s;
         transition: transform 0.2s;
-        border-bottom: 1px solid white;
-        background-color: rgba(255, 255, 255, 0.9); }
+        border-bottom: 1px solid rgba(08, 78, 137, 0.9); 
+        /* // white */
+        background-color: rgba(08, 78, 137, 0.9); }
+        /* rgba(255, 255, 255, 0.9); } */
         #mainNav.is-fixed .navbar-brand {
-          color: #333333; }
+          color: white; 
+          /* #333333;  */
+        }
           #mainNav.is-fixed .navbar-brand:focus, #mainNav.is-fixed .navbar-brand:hover {
-            color: #0085A1; }
+            color: white; 
+            /* #0085A1;  */
+          }
         #mainNav.is-fixed .navbar-nav > li.nav-item > a {
-          color: #333333; }
+          color: white; 
+          /* #333333;  */
+        }
           #mainNav.is-fixed .navbar-nav > li.nav-item > a:focus, #mainNav.is-fixed .navbar-nav > li.nav-item > a:hover {
-            color: #0085A1; }
+            color: white; 
+            /* #0085A1;  */
+          }
       #mainNav.is-visible {
         /* if the user changes the scrolling direction, we show the header */
         -webkit-transform: translate3d(0, 100%, 0);
