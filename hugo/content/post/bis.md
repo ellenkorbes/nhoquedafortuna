@@ -2,7 +2,7 @@
 title: "Não compre Bis por 1 real"
 date: 2017-09-02T09:26:00-03:00
 draft: false
-featured_image: /blog/img/restaurant.jpg
+featured_image: /blog/img/fundoazul2.jpeg
 excerpt: "Se comprar no mercado é 20c cada ô trôxa. E se for no mercado já me vê umas balahaus"
 ---
 

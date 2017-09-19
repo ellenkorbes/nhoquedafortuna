@@ -2,7 +2,7 @@
 title: "Entre em contato!"
 type: contato
 draft: false
-featured_image: /blog/img/restaurant2.jpg
+featured_image: /blog/img/fundoazul2.jpeg
 excerpt: "Ficou com alguma dúvida? Tem alguma sugestão? Deixe uma mensagem!"
 ---
 
