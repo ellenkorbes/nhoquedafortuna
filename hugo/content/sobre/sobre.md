@@ -2,7 +2,7 @@
 title: "Nhoque da Fortuna"
 date: 2017-09-02T09:26:00-03:00
 draft: false
-featured_image: /blog/img/fundoazul2.jpeg
+featured_image: /blog/img/garfo-azul.jpeg
 excerpt: "Fique por dentro das últimas tendências do mundo food!"
 ---
 
