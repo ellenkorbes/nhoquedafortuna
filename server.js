@@ -35,6 +35,28 @@ app.post('/form', function (request, response) {
   )
 })
 
+app.post('/lp', function (request, response) {
+  mongo.connect(mongouri, function (err, db) {
+    if (err) throw err
+    console.log(request.body)
+    var now = moment().tz("America/Sao_Paulo").format("YYYY-MM-DD HH:mm:ss")
+    var newEntry = [{
+      "email": request.body.email,
+      "nome": request.body.nome + " " + request.body.sobrenome,
+      "ip": request.headers['x-forwarded-for'].split(',')[0],
+      "tipo": "B2C",
+      "data_hora": now
+    }]
+    db.collection('leads').insert(newEntry, function (err, result) {
+      if (err) throw err
+      console.log(result)
+      db.close()
+    })
+    response.redirect("http://www.nhoquedafortuna.com/leitrabalhista.pdf")
+  }
+  )
+})
+
 
 app.get("/", function (request, response) {
   response.redirect("http://www.nhoquedafortuna.com")
