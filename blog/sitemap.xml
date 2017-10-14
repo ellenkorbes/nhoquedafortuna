@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/blog/conteudos-quentes/receitas/</loc>
+    <lastmod>2017-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/post/09-cuidados/</loc>
+    <lastmod>2017-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/conteudos-quentes/nova-lei-trabalhista/</loc>
     <lastmod>2017-09-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,12 +38,18 @@
   </url>
   
   <url>
+    <loc>/blog/conteudos-quentes/</loc>
+    <lastmod>2017-09-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blog/contato/contato/</loc>
   </url>
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2017-09-19T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

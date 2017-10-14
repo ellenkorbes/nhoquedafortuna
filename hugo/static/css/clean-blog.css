@@ -5,7 +5,7 @@
  */
 body {
   font-size: 20px;
-  color: #333333;
+  color: #555555;
   font-family: 'Lora', 'Times New Roman', serif; }
 
 p {
@@ -76,23 +76,24 @@ body {
 
 #mainNav {
   position: absolute;
-  border-bottom: 1px solid #eeeeee;
-  background-color: white;
+  border-bottom: 1px solid rgba(08, 78, 137, 0.9);;
+  background-color: rgba(08, 78, 137, 0.9);
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
   #mainNav .navbar-brand {
     font-weight: 800;
-    color: #777777; }
+    color: white; }
   #mainNav .navbar-toggler {
     font-size: 12px;
     font-weight: 800;
     padding: 13px;
     text-transform: uppercase;
-    color: #777777; }
+    color: white; }
   #mainNav .navbar-nav > li.nav-item > a {
     font-size: 12px;
     font-weight: 800;
     letter-spacing: 1px;
-    text-transform: uppercase;  
+    text-transform: uppercase; 
+    color: white; 
   }
   @media only screen and (min-width: 992px) {
     #mainNav {
